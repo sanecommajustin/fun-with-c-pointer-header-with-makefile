@@ -4,7 +4,7 @@
 # Since: 2/14/2013
 #
 
-#This are script-wide variables used to easily name the necessary ingredients.
+#These are script-wide variables used to easily name the necessary ingredients.
 #External applications
 CC = gcc
 DBG = gdb
