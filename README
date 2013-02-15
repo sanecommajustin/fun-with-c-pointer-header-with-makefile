@@ -1,0 +1,14 @@
+List Operations
+Author: Justin Walrath <walrathjaw@gmail.com>
+Since: 2/14/2013
+
+This is a sample of c code that compiles a linked list program and function library using a Makefile
+
+To compile:
+	make list
+
+To debug:
+	make debug
+
+To run:
+	make run
